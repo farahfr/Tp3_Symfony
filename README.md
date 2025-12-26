@@ -12,6 +12,5 @@ Ce projet consiste à transformer une page HTML statique en une page dynamique a
 - Traitement du formulaire au niveau du Controller
 
   
-## Realisée par:
   BENTIRESS Farah
 
